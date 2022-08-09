@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @girldee
-- 👀 I’m interested in fromt-end roles as a web developer
+- 👀 I’m interested in front-end roles as a web developer
 - 🌱 I’m currently learning Javascript, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
